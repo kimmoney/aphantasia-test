@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://aphantasia.vercel.app"),
+  metadataBase: new URL("https://aphantasia-profile.vercel.app"),
   title: "Aphantasia Profile Test",
   description:
     "시각 심상, 공간 지각, 안면 인식 경향을 확인하는 자가점검용 Aphantasia 테스트",
